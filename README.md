@@ -1,2 +1,2 @@
 # Instagram-website-clone
-Instagram Website Clone(HTML &amp; CSS ONLY)
+Static project of the Instagram website.
